@@ -56,7 +56,7 @@ In order to ensure your attestations are published correctly, `--max-peers` shou
     Nimbus manages peers slightly differently to other clients (we automatically connect to more peers than we actually use, in order not to have to do costly reconnects).
     As such, `--max-peers` is set to 160 by default.
 
-If this doesn't fix the problem, please double check your node is able to [receive incoming connections](./networking.md#check-for-incoming-connections).
+If this doesn't fix the problem, please double-check your node is able to [receive incoming connections](./networking.md#check-for-incoming-connections).
 
 ## Misc
 

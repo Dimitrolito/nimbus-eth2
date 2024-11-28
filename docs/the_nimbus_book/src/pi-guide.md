@@ -26,13 +26,13 @@ As such, we try our best to explain things from first-principles.
     You will need an SSD to run the Nimbus: mechanical hard drives are typically too slow to run an Ethereum node.
     You have two options:
 
-    1. Use an USB portable SSD disk such as the Samsung T5 Portable SSD.
-    2. Use an USB 3.0 External Hard Drive Case with a SSD Disk.
+    1. Use a USB portable SSD disk such as the Samsung T5 Portable SSD.
+    2. Use a USB 3.0 External Hard Drive Case with a SSD Disk.
        For example, [Ethereum on Arm](https://twitter.com/EthereumOnARM) use an Inateck 2.5 Hard Drive Enclosure FE2011.
        Make sure to buy a case with an UASP compliant chip, particularly, one of these: JMicron (JMS567 or JMS578) or ASMedia (ASM1153E).
 
     In both cases, avoid low quality SSD disks (the SSD is a key component of your node and can drastically affect both the performance and sync time).
-    Keep in mind that you need to plug the disk to an USB 3.0 port (the blue port).
+    Keep in mind that you need to plug the disk to a USB 3.0 port (the blue port).
 
 !!! note
     If you have a Raspberry Pi 4 and are getting bad speeds transferring data to/from USB3.0 SSDs, please [read this recommended fix](https://forums.raspberrypi.com/viewtopic.php?t=245931#p1501426).

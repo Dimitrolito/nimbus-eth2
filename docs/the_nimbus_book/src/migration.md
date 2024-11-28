@@ -69,7 +69,7 @@ As part of the migration process, you need to stop your existing client and expo
 
     #### 1. Disable the Lighthouse validator client
 
-    The validator client needs to be stopped in order to export, to guarantee that the data exported is up to date.
+    The validator client needs to be stopped in order to export, to guarantee that the data exported is up-to-date.
 
     If you're using systemd and your service is called `lighthousevalidator`, run the following command to stop and disable the service:
 
